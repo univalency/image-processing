@@ -1,3 +1,4 @@
+#In this code I simply apply the filter to create contours on the picture.
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import numpy as np
